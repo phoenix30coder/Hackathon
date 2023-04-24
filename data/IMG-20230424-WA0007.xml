@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>IMG-20230424-WA0007.jpg</filename>
+	<path>/home/devilcoder/Documents/data/IMG-20230424-WA0007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pcup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>476</ymin>
+			<xmax>505</xmax>
+			<ymax>874</ymax>
+		</bndbox>
+	</object>
+</annotation>
